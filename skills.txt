@@ -1,4 +1,4 @@
-Hard skills:
+Hard skills.
 
 JSON,HML: Что такое JSON, HML. Их структура.
 HTML: Структура HTML запросов и ответов.
