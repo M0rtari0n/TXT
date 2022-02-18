@@ -1,1 +1,15 @@
+Bug report:
 
+Summary: Смещённая кнопка 'войти', в окне авторизации
+Project: Онлайн магазин abc
+Component: Кнопка 'войти'
+Version: 1.12.13
+Severity: Major
+Priority: Medium
+Status: Open
+Author: Петяшев Андрей
+Assigned to: Владимир Лещенко
+Description:
+   1.Зайти на сайт abc.ru
+   2.Перейти в окно авторизации нажав кнопку 'войти'
+Attachment: 'Screenshot'
